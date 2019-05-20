@@ -97,11 +97,7 @@ knitr::include_graphics("../Plots/PARTIER - Fordeling af partiomtale.png")
 ---
 
 ```{r, echo = F, out.width="65%"}
-<<<<<<< HEAD
-knitr::include_graphics("..../Plots/PARTIER - Tone i partiomtalen.png")
-=======
 knitr::include_graphics("../Plots/PARTIER - Tone i partiomtalen.png")
->>>>>>> parent of fc84a79... Fix imgs
 ```
 
 
