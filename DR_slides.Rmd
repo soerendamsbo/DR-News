@@ -91,13 +91,13 @@ class: inverse, middle, center
 # Politiske partier
 
 ```{r, echo = F, out.width="100%"}
-knitr::include_graphics("plots/PARTIER - Fordeling af partiomtale.png")
+knitr::include_graphics("../Plots/PARTIER - Fordeling af partiomtale.png")
 ```
 
 ---
 
 ```{r, echo = F, out.width="65%"}
-knitr::include_graphics("plots/PARTIER - Tone i partiomtalen.png")
+knitr::include_graphics("../Plots/PARTIER - Tone i partiomtalen.png")
 ```
 
 
@@ -117,7 +117,7 @@ knitr::include_graphics("plots/PARTIER - Tone i partiomtalen.png")
 # Køn
 
 ```{r, echo = F, out.width="100%"}
-knitr::include_graphics("plots/KØN - Kønsord.png")
+knitr::include_graphics("../Plots/KØN - Kønsord.png")
 ```
 
 ---
@@ -125,7 +125,7 @@ knitr::include_graphics("plots/KØN - Kønsord.png")
 # Køn
 
 ```{r, echo = F, out.width="100%"}
-knitr::include_graphics("plots/KØN - Citering af mænd og kvinder total.png")
+knitr::include_graphics("../Plots/KØN - Citering af mænd og kvinder total.png")
 ```
 
 ---
@@ -133,13 +133,13 @@ knitr::include_graphics("plots/KØN - Citering af mænd og kvinder total.png")
 # Køn
 
 ```{r, echo = F, out.width="100%"}
-knitr::include_graphics("plots/KØN - Citering af mænd og kvinder.png")
+knitr::include_graphics("../Plots/KØN - Citering af mænd og kvinder.png")
 ```
 
 ---
 
 ```{r, echo = F, out.width="75%"}
-knitr::include_graphics("plots/KØN - Fordeling af artiklers kønnethed.png")
+knitr::include_graphics("../Plots/KØN - Fordeling af artiklers kønnethed.png")
 ```
 
 ---
@@ -159,7 +159,7 @@ knitr::include_graphics("plots/KØN - Fordeling af artiklers kønnethed.png")
 
 .pull-left[
 ```{r, echo = F, out.width="120%"}
-knitr::include_graphics("plots/GEO - Omtale af steder.png")
+knitr::include_graphics("../Plots/GEO - Omtale af steder.png")
 ```
 ]
 ---
@@ -168,20 +168,20 @@ knitr::include_graphics("plots/GEO - Omtale af steder.png")
 
 .pull-left[
 ```{r, echo = F, out.width="100%"}
-knitr::include_graphics("plots/GEO - Overrepræsenterede kommuner.png")
+knitr::include_graphics("../Plots/GEO - Overrepræsenterede kommuner.png")
 ```
 ]
 
 .pull-right[
 ```{r, echo = F, out.width="100%"}
-knitr::include_graphics("plots/GEO - Underrepræsenterede kommuner.png")
+knitr::include_graphics("../Plots/GEO - Underrepræsenterede kommuner.png")
 ```
 ]
 
 ---
 
 ```{r, echo = F, out.width="65%"}
-knitr::include_graphics("plots/GEO - Tone i omtalen af kommuner.png")
+knitr::include_graphics("../Plots/GEO - Tone i omtalen af kommuner.png")
 ```
 
 ---
@@ -189,7 +189,7 @@ knitr::include_graphics("plots/GEO - Tone i omtalen af kommuner.png")
 # Geografi
 
 ```{r, echo = F, out.width="65%"}
-knitr::include_graphics("plots/GEO - Negativt omtalte kommuner.png")
+knitr::include_graphics("../Plots/GEO - Negativt omtalte kommuner.png")
 ```
 
 
@@ -208,13 +208,13 @@ knitr::include_graphics("plots/GEO - Negativt omtalte kommuner.png")
 
 .pull-left[
 ```{r, echo = F, out.width="100%"}
-knitr::include_graphics("plots/IMMIGRATION - Sammenhæng mellem tone og immigration.png")
+knitr::include_graphics("../Plots/IMMIGRATION - Sammenhæng mellem tone og immigration.png")
 ```
 ]
 
 .pull-right[
 ```{r, echo = F, out.width="100%"}
-knitr::include_graphics("plots/IMMIGRATION - Sammenhæng mellem tone og immigration over tid.png")
+knitr::include_graphics("../Plots/IMMIGRATION - Sammenhæng mellem tone og immigration over tid.png")
 ```
 ]
 
@@ -233,13 +233,13 @@ knitr::include_graphics("plots/IMMIGRATION - Sammenhæng mellem tone og immigrat
 
 .pull-left[
 ```{r, echo = F, out.width="100%"}
-knitr::include_graphics("plots/EU - Sammenhæng mellem tone og EU.png")
+knitr::include_graphics("../Plots/EU - Sammenhæng mellem tone og EU.png")
 ```
 ]
 
 .pull-right[
 ```{r, echo = F, out.width="100%"}
-knitr::include_graphics("plots/EU - Kategorisering.png")
+knitr::include_graphics("../Plots/EU - Kategorisering.png")
 ```
 ]
 
